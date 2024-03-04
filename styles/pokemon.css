@@ -1,0 +1,11 @@
+.topo {
+    height: 100px;
+    width: 100%;
+    background-color: crimson;
+}
+
+.topo .logoPoke{
+    width: 200px;
+    height: 100px;
+
+}
